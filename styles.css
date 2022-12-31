@@ -117,7 +117,13 @@
 @media only screen and (max-width: 480px) {
     .word-waves span{
         font-size: 1.5rem;
-        margin-top: 10%;
+        margin-top: 18%;
         width: 100%;
+    }
+
+    .icones{
+        width: 15%;
+        display: flex;
+        gap: 10px;
     }
 }
